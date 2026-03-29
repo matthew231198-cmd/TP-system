@@ -1,0 +1,9 @@
+Update the info command with new reward and invite details
+
+Update the `/info` command to accurately reflect changes in TP earning rates, HNP reward ranges, invite bonuses, withdrawal minimums, and the `/buy` command's quantity option.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 57136613-fbd3-4e77-8a66-acbfdd74b5e3
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 4e49a90f-62cd-43a0-8899-ca1cb8e49b31
+Replit-Helium-Checkpoint-Created: true
